@@ -1,5 +1,4 @@
 <div>
-  <img src="./assets/logo.png" alt="Simple Proxy Logo" width="100" style="border-radius: 20px; display:inline; vertical-align: middle;">
   <h1 style="display:inline; vertical-align: middle; margin-left: 10px;">Ejabberd HTTP Client</h1>
 </div> <br>
 
