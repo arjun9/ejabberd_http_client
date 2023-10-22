@@ -3,6 +3,7 @@
 </div> <br>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Gem Version](https://badge.fury.io/rb/ejabberd_http_client.svg)](https://badge.fury.io/rb/ejabberd_http_client)
 [![Downloads](https://img.shields.io/gem/dt/ejabberd_http_client.svg)](https://rubygems.org/gems/ejabberd_http_client)
 ![Tests](https://github.com/arjun9/ejabberd_http_client/actions/workflows/rspec.yml/badge.svg)
 
