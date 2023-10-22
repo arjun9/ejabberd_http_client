@@ -398,10 +398,10 @@ Contributions are welcome! Please read our [Code of Conduct](https://github.com/
 * Create a new Pull Request
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/arjun9/ejabberd_http_client/blob/main/LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/arjun9/ejabberd_http_client/blob/master/LICENSE.txt) file for details.
 
 ## Code of Conduct
-Please note that this project is released with a Contributor [Code of Conduct](https://github.com/arjun9/ejabberd_http_client/blob/main/CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
+Please note that this project is released with a Contributor [Code of Conduct](https://github.com/arjun9/ejabberd_http_client/blob/master/CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
 
 ## Changelog
 For all notable changes made to this project, see the [Changelog](https://github.com/arjun9/ejabberd_http_client/blob/master/CHANGELOG.md).
