@@ -1,7 +1,8 @@
 <div>
-  <h1 style="display:inline; vertical-align: middle; margin-left: 10px;">Ejabberd HTTP Client</h1>
-</div> <br>
+  <img src="./assets/logo.png" alt="Ejabberd Client Logo" width="200" style="border-radius: 20px; display:inline; vertical-align: middle;">
+</div>
 
+# Ejabberd Http Client
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Gem Version](https://badge.fury.io/rb/ejabberd_http_client.svg)](https://badge.fury.io/rb/ejabberd_http_client)
 [![Downloads](https://img.shields.io/gem/dt/ejabberd_http_client.svg)](https://rubygems.org/gems/ejabberd_http_client)
